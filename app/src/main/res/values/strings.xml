@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Practica_2</string>
+    <string name="requiered_field">Campo Obligatorio</string>
+    <string name="User">Ingrese el usuario</string>
+    <string name="tittle">Iniciar sesión</string>
+    <string name="password">Contraseña</string>
+    <string name="loging_botton">Ingresar</string>
+    <string name="img_splash" />
 </resources>
