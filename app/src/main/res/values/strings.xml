@@ -6,4 +6,16 @@
     <string name="password">Contraseña</string>
     <string name="loging_botton">Ingresar</string>
     <string name="img_splash" />
+    <string name="welcome">Bienvenido</string>
+    <string name="register_button">Registrate</string>
+    <string name="information">Informacion</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="register_tittle">Registrate</string>
+    <string name="requiered_faild">*Campo requerido</string>
+    <string name="name">Nombre completo</string>
+    <string name="email">Ingrese su correo</string>
+    <string name="document">Ingrese su documento</string>
+    <string name="numerciv">Ingrese número civ.</string>
+    <string name="save">Guardar</string>
+    <string name="requiered_min">Campo  obligatorio, minimo 6 digitos</string>
 </resources>

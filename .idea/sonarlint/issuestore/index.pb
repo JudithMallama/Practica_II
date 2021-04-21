@@ -9,23 +9,17 @@ l
 <app/src/main/java/com/example/practica_2/RegisterActivity.kt,b\e\becc956e4f3c4cfe34edf27a6cc3d59f83743fa0
 j
 :app/src/main/java/com/example/practica_2/SplashActivity.kt,8\8\882d0ec3bcad0ab79ef3d539474f2e47c342b61d
-]
--app/src/main/res/layout/activity_register.xml,6\b\6b9b12c7f310575e3ba8779b7acd1ae20f5a2442
 >
 app/.gitignore,5\1\51e1c5d383dfaa35e0e7e5873a0a99355a86880f
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-Y
-)app/src/main/res/layout/activity_main.xml,7\6\76b07e40f24cce093536731477540f12e7da3cb6
 P
  app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
 @
 app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-R
-"app/src/main/res/values/colors.xml,9\6\969faa2a5d9f5e8390e958d2c07f2cfd54676e6b
 z
 Japp/src/androidTest/java/com/example/practica_2/ExampleInstrumentedTest.kt,c\d\cdf348cf4231bb7fdc39e6bfd6cfd948544e8a5a
 k
@@ -52,7 +46,9 @@ F
 settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
 S
 #app/src/main/res/values/strings.xml,d\2\d2281fbb3027de2722081a53408dd77628bf080e
-R
-"app/src/main/res/values/themes.xml,e\b\eb7f0f821bde169dd21862705b2b042d2cea69a3
 X
 (app/src/main/res/values-night/themes.xml,8\c\8c3a6b96d9ffba496992e612d58227c19e6b9e65
+T
+$.idea/codeStyles/codeStyleConfig.xml,d\d\dd7b3350c29c49497756c7f32c69a3bed18b1cba
+L
+.idea/codeStyles/Project.xml,6\e\6ecd6000a7b6f4a2884412ff19f74193ed089648
